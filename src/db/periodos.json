@@ -1,0 +1,20 @@
+[
+	{
+		"id_categoria": 1,
+		"numero_curso": "I",
+		"descripcion": "Instalación de servidores web",
+		"imagen": "periodo1.jpg"
+	},
+	{
+		"id_categoria": 2,
+		"numero_curso": "II",
+		"descripcion": "Configuración de servidores web",
+		"imagen": "periodo2.jpg"
+	},
+	{
+		"id_categoria": 3,
+		"numero_curso": "III",
+		"descripcion": "Proximamente",
+		"imagen": "periodo2.jpg"
+	}
+]

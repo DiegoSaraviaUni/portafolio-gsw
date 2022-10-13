@@ -1,0 +1,106 @@
+[
+	{
+		"id_actividad": 1,
+		"id_periodo": 1,
+		"titulo": "Guía N° 1 - Instalción de VMWare",
+		"objetivo": "Qué el estudiante, realice los pasos necesarios para la instalación del software VMWare Workstation Pro, en la plataforma del sistema operativo Windows, para poder configurar máquinas virtuales que servirán como laboratorio de pruebas de Servidores Web.",
+		"enlace": "https://drive.google.com/drive/folders/1AX7Fik82m8xCw0Ifks5Pnjpo0WnJj80z?usp=sharing",
+		"imagen": "vmware.png"
+	},
+	{
+		"id_actividad": 2,
+		"id_periodo": 1,
+		"titulo": "Instalación de Windows Server 2019",
+		"objetivo": "Qué el estudiante, conozca los pasos necesarios para la instalación del sistema operativo Windows Server 2019, en una máquina virtual.",
+		"enlace": "https://drive.google.com/drive/folders/1QpNhVTiJSFIG9Ajx0MjFj4vr9AM5UoBK?usp=sharing",
+		"imagen": "windows_server2019.png"
+	},
+	{
+		"id_actividad": 3,
+		"id_periodo": 1,
+		"titulo": "Funciones y Características de Servidores",
+		"objetivo": "Qué el estudiante, mediante el uso adecuado de los recursos online disponibles en la web, pueda realizar una investigación que le permita conocer sobre las funcionalidades y características en general de los Servidores tanto en el sistema Windows, como en el sistema Linux.",
+		"enlace": "https://docs.google.com/document/d/1QmZlkY68FQS39ZRN7PpjIhv389upPuNqzUAS4y9yalE/edit?usp=sharing",
+		"imagen": "servidores_web.png"
+	},
+	{
+		"id_actividad": 4,
+		"id_periodo": 1,
+		"titulo": "Instalación de Contenedor Docker en Windows 10",
+		"objetivo": "Qué el estudiante, pueda realizar los pasos necesarios para la instalación y configuración de Contenedores Docker en ambiente Windows para implementar aplicaciones web.",
+		"enlace": "https://drive.google.com/drive/folders/12SjD3N4tXSUG62V3PtiDSZmwg2gP__3t?usp=sharing",
+		"imagen": "docker.png"
+	},
+	{
+		"id_actividad": 5,
+		"id_periodo": 1,
+		"titulo": "Instalación de Contenedor Docker en Ubuntu",
+		"objetivo": "Qué el estudiante, pueda realizar los pasos necesarios para la instalación y configuración de Contenedores Docker en ambiente Linux.",
+		"enlace": "https://drive.google.com/drive/folders/1JETrkv4FZFk6F38lMjE3AxxLZ9J7Bb7A?usp=sharing",
+		"imagen": "docker-ubuntu.png"
+	},
+	{
+		"id_actividad": 6,
+		"id_periodo": 1,
+		"titulo": "Crear un Contenedor Docker en Windows 10 para sitio Web Estático",
+		"objetivo": "Qué el estudiante, pueda aplicar el aprendizaje sobre contenedores Docker para crear un contenedor de sitio web estático en Windows 10.",
+		"enlace": "https://drive.google.com/drive/folders/1PXS7J8KwhHK0R1iaKC61NabsWsIgkayZ?usp=sharing",
+		"imagen": "docker.png"
+	},
+	{
+		"id_actividad": 7,
+		"id_periodo": 1,
+		"titulo": "Configuración del Contenedor de Servlets Apache Tomcat en Windows Server",
+		"objetivo": "Qué el estudiante, pueda realizar los pasos necesarios para la configuración del Contenedor de Servlets Apache Tomcat en el ambiente de Windows Server.",
+		"enlace": "https://drive.google.com/file/d/12b129_plnK75jD1nHMbGgAIKCwyr1r1L/view",
+		"imagen": "apache.png"
+	},
+	{
+		"id_actividad": 8,
+		"id_periodo": 1,
+		"titulo": "Configuración del contenedor de Servlets Apache Tomcat en Ubuntu",
+		"objetivo": "Qué el estudiante, pueda realizar los pasos necesarios para la configuración del contenedor de Servlets Apache Tomcat en GUN/Linux Ubuntu 20.04 LTS.",
+		"enlace": "https://drive.google.com/drive/folders/1tfkh7YOM6YI1JJ88sN30MyHM41-shKxE?usp=sharing",
+		"imagen": "apache-ubuntu.jpg"
+	},
+	{
+		"id_actividad": 9,
+		"id_periodo": 2,
+		"titulo": "Configuración de DNS",
+		"objetivo": "Que el alumno pueda realizar la configuración e implementación de un Servidor de Donimio de Nombes en un servidor Windows 2019.",
+		"enlace": "https://drive.google.com/drive/folders/1nk5MqP5ttPiyD262fqKFX194GVtYAPX-?usp=sharing",
+		"imagen": "dns.png"
+	},
+	{
+		"id_actividad": 10,
+		"id_periodo": 2,
+		"titulo": "Configuración del Servidor IIS en Windows Server 2019",
+		"objetivo": "Que el alumno pueda hacer la implementación de un Servidor Web  y desplegar un sitio web utilizando Windows Server 2019.",
+		"enlace": "https://drive.google.com/drive/folders/1kgXInbOOUaaxiBK8cgUZf6dbMRIfjaBx?usp=sharing",
+		"imagen": "iis.png"
+	},
+	{
+		"id_actividad": 11,
+		"id_periodo": 2,
+		"titulo": "Configuración de PHP en Windows Server 2019",
+		"objetivo": "Que el alumno pueda configurar un sitio web en el Servidor IIS, que permita la ejecución de scripts del lenguaje PHP.",
+		"enlace": "https://drive.google.com/drive/folders/1CMI2Z9SUZd6TC1tJXvakXZ7Qy90b5WpT?usp=sharing",
+		"imagen": "php.png"
+	},
+	{
+		"id_actividad": 12,
+		"id_periodo": 2,
+		"titulo": "Instalación de OpenSSH en Windows Server 2019",
+		"objetivo": "Que el alumno pueda hacer la correcta instalación del servidor OpenSSH en el Servidor Windows 2019.",
+		"enlace": "https://drive.google.com/drive/folders/1r4XZth_4OExFPAMHXVqLKHEh0JoTWxqg?usp=sharing",
+		"imagen": "ssh.png"
+	},
+	{
+		"id_actividad": 13,
+		"id_periodo": 2,
+		"titulo": "Instalación de Servidor Apache en Ubuntu Server",
+		"objetivo": "Que el alumno pueda hacer la configuración de un servidor web en el sistema operativo de Ubuntu Server.",
+		"enlace": "https://drive.google.com/drive/folders/1imQJj3lRCZzY85nRZrC2lM6YM90gQHb3?usp=sharing",
+		"imagen": "apache-ubuntu.jpg"
+	}
+]
