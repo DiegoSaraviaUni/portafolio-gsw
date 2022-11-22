@@ -102,5 +102,45 @@
 		"objetivo": "Que el alumno pueda hacer la configuración de un servidor web en el sistema operativo de Ubuntu Server.",
 		"enlace": "https://drive.google.com/drive/folders/1imQJj3lRCZzY85nRZrC2lM6YM90gQHb3?usp=sharing",
 		"imagen": "apache-ubuntu.jpg"
+	},
+	{
+		"id_actividad": 14,
+		"id_periodo": 3,
+		"titulo": "Tarea de Investigación Cloud Services",
+		"objetivo": "Qué el estudiante, mediante el uso adecuado de los recursos online disponibles en la web, pueda realizar una investigación que le permita conocer sobre plataformas de servicios en la nube, profundizando en los principales servicios que estas ofrecen para el despliegue de servidores web.",
+		"enlace": "https://docs.google.com/document/d/1ymp7HmyCOBZNRQb3cMboOK4cSaoRzoYlRWpSBqfYi0s/edit?usp=share_link",
+		"imagen": "aws.jpg"
+	},
+	{
+		"id_actividad": 15,
+		"id_periodo": 3,
+		"titulo": "Configuración de un Aplication Gateway en Azure",
+		"objetivo": "Qué el estudiante, sepa cómo configurar una puerta de enlace para un conjunto de servidores web, utilizando los servicios disponibles en la plataforma de Microsoft Azure.",
+		"enlace": "https://drive.google.com/drive/folders/18bBL3Mrx7MV_pl0J93M6_z3lRh8yNqpQ?usp=share_link",
+		"imagen": "azure.png"
+	},
+	{
+		"id_actividad": 16,
+		"id_periodo": 3,
+		"titulo": "Configuración de un Equilibrador de Carga en Azure",
+		"objetivo": "Qué el estudiante, pueda realizar el proceso para configurar un Equilibrador de Carga para varios Conjuntos de Disponibilidad, utilizando los servicios disponibles en la plataforma de Microsoft Azure.",
+		"enlace": "https://drive.google.com/drive/folders/1BGR7rKxUTnIBi7FkuANeq-8oi0m65fQn?usp=share_link",
+		"imagen": "azure.png"
+	},
+	{
+		"id_actividad": 17,
+		"id_periodo": 3,
+		"titulo": "Lanzar Instancia AWS con Servidor Web LAMP",
+		"objetivo": "Que el alumno pueda configurar una instancia EC2 en la plataforma Amazon Web Service, para desplegar un servidor web con Ubuntu.",
+		"enlace": "https://drive.google.com/drive/folders/1JzYk4r4_gXPTsQbrQT9ySSrTywOzEE8K?usp=share_link",
+		"imagen": "aws.jpg"
+	},
+	{
+		"id_actividad": 18,
+		"id_periodo": 3,
+		"titulo": "Application Load Balancer con AWS",
+		"objetivo": "que el alumno pueda realizar la configuración de un Grupo de Destinos y configurar un Application Load Balancer utilizando la plataforma Amazon Web Services. Ponderación: acumulado para actividades de Portafolio.",
+		"enlace": "https://drive.google.com/drive/folders/13u3S4QfgUZtIX7VkxxGCrx-5SaNXnF5a",
+		"imagen": "aws.jpg"
 	}
 ]
